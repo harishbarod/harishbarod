@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in PHP
-- 🌱 I’m currently react.js
+- 🌱 I’m currently working in  react.js
 - 📫 How to reach me [harish_rathor____](https://www.instagram.com/harish_rathor____/)
 
 <!---
